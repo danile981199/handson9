@@ -1,6 +1,5 @@
 ﻿using System;
 
-// Enum for log levels
 public enum LogLevel
 {
     Comment,
