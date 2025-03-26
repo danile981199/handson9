@@ -1,0 +1,15 @@
+/Users/danielxx/Desktop/cs509/LoggerFactoryDemo/bin/Debug/net9.0/LoggerFactoryDemo
+/Users/danielxx/Desktop/cs509/LoggerFactoryDemo/bin/Debug/net9.0/LoggerFactoryDemo.deps.json
+/Users/danielxx/Desktop/cs509/LoggerFactoryDemo/bin/Debug/net9.0/LoggerFactoryDemo.runtimeconfig.json
+/Users/danielxx/Desktop/cs509/LoggerFactoryDemo/bin/Debug/net9.0/LoggerFactoryDemo.dll
+/Users/danielxx/Desktop/cs509/LoggerFactoryDemo/bin/Debug/net9.0/LoggerFactoryDemo.pdb
+/Users/danielxx/Desktop/cs509/LoggerFactoryDemo/obj/Debug/net9.0/LoggerFactoryDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielxx/Desktop/cs509/LoggerFactoryDemo/obj/Debug/net9.0/LoggerFactoryDemo.AssemblyInfoInputs.cache
+/Users/danielxx/Desktop/cs509/LoggerFactoryDemo/obj/Debug/net9.0/LoggerFactoryDemo.AssemblyInfo.cs
+/Users/danielxx/Desktop/cs509/LoggerFactoryDemo/obj/Debug/net9.0/LoggerFactoryDemo.csproj.CoreCompileInputs.cache
+/Users/danielxx/Desktop/cs509/LoggerFactoryDemo/obj/Debug/net9.0/LoggerFactoryDemo.sourcelink.json
+/Users/danielxx/Desktop/cs509/LoggerFactoryDemo/obj/Debug/net9.0/LoggerFactoryDemo.dll
+/Users/danielxx/Desktop/cs509/LoggerFactoryDemo/obj/Debug/net9.0/refint/LoggerFactoryDemo.dll
+/Users/danielxx/Desktop/cs509/LoggerFactoryDemo/obj/Debug/net9.0/LoggerFactoryDemo.pdb
+/Users/danielxx/Desktop/cs509/LoggerFactoryDemo/obj/Debug/net9.0/LoggerFactoryDemo.genruntimeconfig.cache
+/Users/danielxx/Desktop/cs509/LoggerFactoryDemo/obj/Debug/net9.0/ref/LoggerFactoryDemo.dll
